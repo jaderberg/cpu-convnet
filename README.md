@@ -6,7 +6,7 @@ goal of being efficient and flexible. It allows one to easily construct a
 network in the form of an arbitrary Directed Acyclic Graph (DAG) and to
 perform end-to-end training.
 
-For more usage check out [the wiki](https://github.com/UCB-ICSI-Vision-Group/decaf-release/wiki).
+For more usage check out [the wiki](https://github.com/jaderberg/cpu-convnet/wiki).
 
 For the pre-trained imagenet DeCAF feature and its analysis, please see our
 [technical report on arXiv](http://arxiv.org/abs/1310.1531). Please consider
