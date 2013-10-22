@@ -1,6 +1,8 @@
 Decaf
 =====
 
+To build in-place: CFLAGS="-O3 -DNDEBUG -march=native" python setup.py build_ext --inplace
+
 Decaf is a framework that implements convolutional neural networks, with the
 goal of being efficient and flexible. It allows one to easily construct a
 network in the form of an arbitrary Directed Acyclic Graph (DAG) and to
